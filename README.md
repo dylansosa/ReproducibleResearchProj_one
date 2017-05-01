@@ -25,7 +25,7 @@ hist(steps_by_day$steps, main = paste("Total Steps Each Day"), col="blue", xlab=
 rmean <- mean(steps_by_day$steps)
 rmedian <- median(steps_by_day$steps)
 ```
-![graph1](./ReproducibleResearchProj_one/graph1.png) 
+![graph1](./ReproducibleResearchProj_one/graph1.png/) 
 
 The `mean` is 1.0766 &times; 10<sup>4</sup> and the `median` is 10765.
 
